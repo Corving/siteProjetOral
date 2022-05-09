@@ -62,6 +62,7 @@
     </div>
     <div class="container">
         <div class="row grid">
+            @foreach($projets as $projet)
             <div class="col-sm-6 col-lg-4 mb-30 grid-item">
                 <div class="single-stories-card">
                     <div class="stories-card-img">
@@ -69,13 +70,14 @@
                     </div>
                     <div class="stories-card-content">
                         <div class="sub-title-wrapper">
-                            <h4 class="card-sub-title">Beauty</h4>
-                            <h5 class="card-date">Apr 30, 2019</h5>
+                            <h4 class="card-sub-title">{{$projet->titre}}</h4>
+                            <h5 class="card-date">{{$projet->date_projet}}</h5>
                         </div>
-                        <h4 class="card-title"><a href="single-blog.html">Ingredients to look for in skin care products</a></h4>
+                        <h4 class="card-title"><a href="single-blog.html">{{str()}}</a></h4>
                     </div>
                 </div>
             </div>
+            @endforeach
         </div>
     </div>
 </section>
