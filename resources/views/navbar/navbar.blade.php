@@ -33,7 +33,7 @@
             <!-- sign-in area -->
             <div class="sign-in-area">
                 <ul class="d-flex align-items-center justify-content-between">
-                    <li class="dark-light"><img src="assets/img/svg/dark-light.svg" alt=""></li>
+                    <li class="dark-light"><img src="/assets/img/svg/dark-light.svg" alt=""></li>
                     <li></li>
                 </ul>
             </div>
@@ -43,7 +43,7 @@
     <div class="search-popup-area">
         <div class="search-option">
             <div class="search-box">
-                <img src="assets/img/svg/search.svg" alt="">
+                <img src="/assets/img/svg/search.svg" alt="">
                 <input id="search" name="search" type="text" data-list=".data-list" placeholder="Type your keywords...">
             </div>
             <div class="data-list-wrapper">
@@ -57,7 +57,7 @@
                                 <p>Read our top seven health benefits of fishing to learn why, whether you're a match
                                     angler or a weekend hobbyist.</p>
                             </div>
-                            <img src="assets/img/svg/arrow-left.svg" alt="">
+                            <img src="/assets/img/svg/arrow-left.svg" alt="">
                         </a>
                     </li>
                     <li>
@@ -70,7 +70,7 @@
                                     of Thai culture, so much so that for years the Thai government has been asking,
                                     unsuccessfully, for it to be included as an Olympic sport. </p>
                             </div>
-                            <img src="assets/img/svg/arrow-left.svg" alt="">
+                            <img src="/assets/img/svg/arrow-left.svg" alt="">
                         </a>
                     </li>
                     <li>
@@ -84,7 +84,7 @@
                                     manufacturers and experts attending. After feedback, Target announced in 2015 that
                                     it would get rid of signs labeling toys for boys or for girls</p>
                             </div>
-                            <img src="assets/img/svg/arrow-left.svg" alt="">
+                            <img src="/assets/img/svg/arrow-left.svg" alt="">
                         </a>
                     </li>
                     <li>
@@ -98,7 +98,7 @@
                                     faces, human figures, clothing, illustrations from my favourite artists, animals,
                                     caterpillars, flowers and plenty more besides.</p>
                             </div>
-                            <img src="assets/img/svg/arrow-left.svg" alt="">
+                            <img src="/assets/img/svg/arrow-left.svg" alt="">
                         </a>
                     </li>
 
@@ -106,7 +106,7 @@
             </div>
         </div>
         <div class="popup-close-icon">
-            <img src="assets/img/svg/close-icon.svg" alt="">
+            <img src="/assets/img/svg/close-icon.svg" alt="">
         </div>
     </div>
 </header>

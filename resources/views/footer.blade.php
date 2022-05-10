@@ -13,10 +13,10 @@
                     <div class="social-icon pt-40 pt-lg-15">
                         <h4>Follow Us</h4>
                         <ul class="d-flex align-items-center">
-                            <li><a href="#"><img src="assets/img/svg/facebook.svg" alt=""></a></li>
-                            <li><a href="#"><img src="assets/img/svg/instagram.svg" alt=""></a></li>
-                            <li><a href="#"><img src="assets/img/svg/twitter.svg" alt=""></a></li>
-                            <li><a href="#"><img src="assets/img/svg/youtube.svg" alt=""></a></li>
+                            <li><a href="#"><img src="/assets/img/svg/facebook.svg" alt=""></a></li>
+                            <li><a href="#"><img src="/assets/img/svg/instagram.svg" alt=""></a></li>
+                            <li><a href="#"><img src="/assets/img/svg/twitter.svg" alt=""></a></li>
+                            <li><a href="#"><img src="/assets/img/svg/youtube.svg" alt=""></a></li>
                         </ul>
                     </div>
                 </div>

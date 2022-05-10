@@ -14,3 +14,7 @@ use \App\Http\Controllers\ProjetController;
 */
 
 Route::get('/',[ProjetController::class,'index'])->name('home');
+Route::get('/projet/{id}', function () {
+    return view('projets.projet1');
+})->name('projet1.show');
+
