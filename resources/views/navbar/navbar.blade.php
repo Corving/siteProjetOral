@@ -21,11 +21,11 @@
                         <ul class="dropdown">
                             <li><a href="{{route('projet1')}}">Projet 1</a></li>
                             <li><a href="{{route('projet2')}}">Projet 2</a></li>
-                            <li><a href="#">Projet 2</a></li>
-                            <li><a href="#">Projet 3</a></li>
-                            <li><a href="#">Projet 4</a></li>
-                            <li><a href="#">Projet 5</a></li>
-                            <li><a href="#">Projet 6</a></li>
+                            <li><a href="{{route('projet3')}}">Projet 3</a></li>
+                            <li><a href="{{route('projet4')}}">Projet 4</a></li>
+                            <li><a href="{{route('projet5')}}">Projet 5</a></li>
+                            <li><a href="{{route('projet6')}}">Projet 6</a></li>
+                            <li><a href="{{route('projet7')}}">Projet 7</a></li>
                         </ul>
                     </li>
                 </ul>

@@ -26,4 +26,20 @@ Route::get('/projet/3', function () {
     return view('projets.projet3');
 })->name('projet3');
 
+Route::get('/projet/4', function () {
+    return view('projets.projet4');
+})->name('projet4');
+
+Route::get('/projet/5', function () {
+    return view('projets.projet5');
+})->name('projet5');
+
+Route::get('/projet/6', function () {
+    return view('projets.projet6');
+})->name('projet6');
+
+Route::get('/projet/7', function () {
+    return view('projets.projet7');
+})->name('projet7');
+
 

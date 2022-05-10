@@ -12,6 +12,8 @@
                     <div class="single-blog-banner-wrapper">
                         <h5>Réalisation n°1</h5>
                         <h1>Maintenance du parc informatique</h1>
+                        <p>Hung that found of the from diesel to the venerable, you what you spare at cleaning in coming
+                            was sign introduced attempt, then would was try make brown.</p>
                         <div class="single-blog-social d-flex align-items-center justify-content-between">
                             <p>15.Janv.2022 . Écrit par Alban Daviré</p>
                         </div>
