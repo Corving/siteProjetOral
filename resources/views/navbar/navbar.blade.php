@@ -4,12 +4,12 @@
         <div class="header-wrapper d-flex align-items-center justify-content-between">
             <!--header-logo-->
             <div class="header-logo">
-                <a href="homepage.html">Blooria</a>
+                <a href="{{route('home')}}">Oral</a>
             </div>
             <!-- menu-bar -->
             <div class="menu-bar">
                 <ul class="d-flex align-items-center justify-content-between">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{route('home')}}">Home</a></li>
                     <li><a href="#">Présentaion</a>
                         <ul class="dropdown">
                             <li><a href="#">CEMA TECHNOLOGIES</a></li>
