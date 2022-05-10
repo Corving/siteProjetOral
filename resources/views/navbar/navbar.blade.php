@@ -19,8 +19,8 @@
                     </li>
                     <li><a href="#">Projet</a>
                         <ul class="dropdown">
-                            <li><a href="#">Projet 1</a></li>
-                            <li><a href="#">Projet 2</a></li>
+                            <li><a href="{{route('projet1')}}">Projet 1</a></li>
+                            <li><a href="{{route('projet2')}}">Projet 2</a></li>
                             <li><a href="#">Projet 2</a></li>
                             <li><a href="#">Projet 3</a></li>
                             <li><a href="#">Projet 4</a></li>

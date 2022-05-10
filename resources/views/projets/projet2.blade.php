@@ -10,67 +10,71 @@
             <div class="row">
                 <div class="col-lg-8 m-auto">
                     <div class="single-blog-banner-wrapper">
-                        <h5>Travel</h5>
-                        <h1>You got to cool that off. and hat's the double-truth</h1>
-                        <p>Hung that found of the from diesel to the venerable, you what you spare at cleaning in coming was sign introduced attempt, then would was try make brown.</p>
+                        <h5>Réalisation n°2</h5>
+                        <h1>Intégration des nouveaux postes de travail dans l’entreprise</h1>
                         <div class="single-blog-social d-flex align-items-center justify-content-between">
-                            <p>29.Nov.2018 . 4 min read . Written by Eiad Basha</p>
-                            <div class="social-icon">
-                                <ul class="d-flex align-items-center justify-content-between">
-                                    <li><a href=""><img src="/assets/img/svg/facebook.svg" alt=""></a></li>
-                                    <li><a href=""><img src="/assets/img/svg/instagram.svg" alt=""></a></li>
-                                    <li><a href=""><img src="/assets/img/svg/twitter.svg" alt=""></a></li>
-                                    <li><a href=""><img src="/assets/img/svg/youtube.svg" alt=""></a></li>
-                                </ul>
-                            </div>
+                            <p>15.Janv.2022 . Écrit par Alban Daviré</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
     <!--single-blog content area start from here-->
     <div class="single-blog-full-content">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 m-auto">
                     <div class="post-thumb">
-                        <img src="/assets/img/single-blog/post-thum.jpg" alt="">
-                        <a href="">Featured Stories</a>
+                        <img src="/assets/img/projets/maintenance.jpg" alt="">
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-8 m-auto">
                     <div class="post-full-content">
-                        <p class="title-content">tHe that after the in makes cleaning forget all intention at here, through had company here's its too at leaders, the a end or thousands the it explain floundering and on also that for after small is compared from with he sharpness origin; Is she was indeed, each if leastgoals </p>
-                        <p>goals a never them. They with are for sleep not and her the which feel communicated of early is really plans. What hesitated our halfdozen its the scarfs, heard peacefully, monitor people, the was him, a what you semantics, sinking harmonics. The mechanic. School. Much my himself the that used.The important thing is that there is a wide range of people who might have some disabilities and by ignoring them you will make their life harder and they will end up leaving, but the web should be available to everyone.</p>
-                        <p>The problem comes with no awareness about it, no budget, or not learning about it at the start of learning about web </p>
-                        <h2>Additional Notes about the Restoration</h2>
-                        <p>Beach Restoration Project Moving Forward: A $17 million beach restoration project, funded by the Mexican government, is currently underway. The project, which is expected to take about eight months to complete, will restore and augment beaches along the 7 1/2-mile stretch between Punta Cancun and Punta Nizuc.</p>
-                        <p>It’s a Divers Paradise: Divers are enjoying less crowds, great conditions and personalized service now that those areas have re-opened.</p>
-                        <p>Expedia.com Helping Get the Word Out: Expedia is working closely with travel industry partners in Cancun to create more awareness about the region as well as setting up smart business practices for local merchants that will keep more money in the local communities.</p>
-                        <p>New jobs: Cancun has added 10,000 new jobs since the Hurricane</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-10 m-auto">
-                    <div class="row">
-                        <div class="col-md-6 mb-md-30">
-                            <div class="single-post-thumb">
-                                <img src="/assets/img/single-blog/blog-thum1.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-md-30">
-                            <div class="single-post-thumb">
-                                <img src="/assets/img/single-blog/blog-thum2.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        <p class="title-content mb-5">Pour chaque nouveau postes, on devait suivre une procédure. Tout
+                            d'abord on faisait un point avec l'utilisateur afin de déterminer ses besoins (logiciels,
+                            imprimante, VPN)
+                            <br>
+                            Nous avions une fiche de suivi pour chaque nouvel ordinateur, dessus nous cochions les
+                            logiciels à installer, et les différentes étapes effectuées afin de suivre la progression de
+                            la mise en place.
+                            <br>
+                            Lors de la réception de l’ordinateur, je mettais à jour Windows 10 ensuite j’intégrais
+                            l'ordinateur dans le domaine.</p>
 
+                        <div class="col-lg-10 mt-25">
+                            <div class="single-post-thumb">
+                                <img src="/assets/img/projets/domaine.png" alt="interface glpi">
+                            </div>
+                        </div>
+
+                        <p class="text-justify">
+                            Puis j’installais l'antivirus utilisé par CEMA TECHNOLOGIES (Trend micro).
+                            <br>
+                            <br>
+                            Ensuite j’installais les logiciels nécessaires ainsi que les drivers pour les imprimantes
+                            que l'utilisateur avait besoin.
+                            <br>
+                            <br>
+                            Une fois l’ordinateur préparé, on enregistre l’ordinateur dans l’inventaire de GLPI.
+                        </p>
+
+                        <h2 class="mb-2">Conclusion Réalisation n°2</h2>
+                        <p class="text-justify">Suivre une procédure de mise en place m’a permis d’avoir de la rigueur,
+                            de communiquer avec l’utilisateur pour connaitre ses besoins et y répondre au mieux.</p>
+
+                        <h2 class="mb-2">Compétences cochées</h2>
+                        <ul>
+                            <li>Gérer le patrimoine informatique</li>
+                            <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 

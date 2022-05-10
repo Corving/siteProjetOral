@@ -52,7 +52,7 @@
                             </div>
                         </div>
 
-                        <p>
+                        <p class="text-justify">
                             Les demandes d'interventions sont variées, je suis déjà intervenu pour :
                         <ul>
                             <li>Changer les piles d'une souris</li>

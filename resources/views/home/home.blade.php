@@ -67,7 +67,7 @@
             <div class="col-sm-6 col-lg-4 mb-30 grid-item">
                 <div class="single-stories-card">
                     <div class="stories-card-img">
-                        <img src="/assets/img/homepage/stories-img1.jpg" alt="">
+                        <img src="{{$projet->url_img}}" alt="">
                     </div>
                     <div class="stories-card-content">
                         <div class="sub-title-wrapper">
