@@ -69,48 +69,47 @@
                             mise à jour à effectuer.
                             Pour ce faire il suffit de sélectionner le menu Démarrer => Paramètres => Mise à
                             jour et
-                            sécurité => Windows Update</p>
-
-                    <p class="text-justify mb-10">
-                        Certaine demande d'intervention pouvait être très vague : "L’ordinateur est lent".
-                        Pour cela il était nécessaire de faire un diagnostic. Nous procédions toujours de la même
-                        manière, on vérifiait que Windows est à jour car celui-ci peut causer des problèmes de
-                        lenteur. Vérification aussi dans le gestionnaire des tâches qu’aucune application ne tourne
-                        en arrière-plan qui exploite ainsi toutes les ressources de l’ordinateur et si oui, je
-                        mettais fin à celle-ci. 85% du temps en faisant c’est 2 étapes le problème était résolu.
-                    </p>
-
-                    <div class="col-lg-8 mt-20">
-                        <div class="single-post-thumb">
-                            <img src="/assets/img/projets/gestionnaireTache.png" alt="gestionnaire des tâches">
+                            sécurité => Windows Update
+                        </p>
+                        <p class="text-justify mb-10">
+                            Certaine demande d'intervention pouvait être très vague : "L’ordinateur est lent".
+                            Pour cela il était nécessaire de faire un diagnostic. Nous procédions toujours de la même
+                            manière, on vérifiait que Windows est à jour car celui-ci peut causer des problèmes de
+                            lenteur. Vérification aussi dans le gestionnaire des tâches qu’aucune application ne tourne
+                            en arrière-plan qui exploite ainsi toutes les ressources de l’ordinateur et si oui, je
+                            mettais fin à celle-ci. 85% du temps en faisant c’est 2 étapes le problème était résolu.
+                        </p>
+                        <div class="col-lg-8 mt-20">
+                            <div class="single-post-thumb">
+                                <img src="/assets/img/projets/gestionnaireTache.png" alt="gestionnaire des tâches">
+                            </div>
                         </div>
+
+                        <p class="text-justify mt-auto">Voici un exemple de gestionnaire de tâche ou l'on utilise toutes
+                            les ressources du CPU.
+                            On constate que la cause est celle de "Google Chrome".</p>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 m-auto">
+                    <div class="post-full-content">
+                        <h2 class="mb-2">Conclusion Réalisation n°1</h2>
+                        <p class="text-justify">Ce projet m’a permis d’apprendre à rechercher et diagnostiquer, de plus
+                            communiquer avec
+                            l’utilisateur afin de comprendre son problème. J’ai travaillé avec la qualité pour faire des
+                            actions préventives pour réduire les problèmes informatiques. Cela permet de réduire les
+                            taux de non-conformité pour l’entreprise. Avant de travailler chez CEMA TECHNOLOGIES, je ne
+                            savais pas qu’il y avait des actions de ce genre.</p>
 
-                    <p class="text-justify mt-auto">Voici un exemple de gestionnaire de tâche ou l'on utilise toutes les ressources du CPU.
-                        On constate que la cause est celle de "Google Chrome".</p>
-
+                        <h2 class="mb-2">Compétences cochées</h2>
+                        <ul>
+                            <li>Gérer le patrimoine informatique</li>
+                            <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
-
-        <div class="row">
-            <div class="col-lg-8 m-auto">
-                <div class="post-full-content">
-                    <h2 class="mb-2">Conclusion Réalisation n°1</h2>
-                    <p class="text-justify">Ce projet m’a permis d’apprendre à rechercher et diagnostiquer, de plus communiquer avec
-                        l’utilisateur afin de comprendre son problème. J’ai travaillé avec la qualité pour faire des
-                        actions préventives pour réduire les problèmes informatiques. Cela permet de réduire les
-                        taux de non-conformité pour l’entreprise. Avant de travailler chez CEMA TECHNOLOGIES, je ne
-                        savais pas qu’il y avait des actions de ce genre.</p>
-
-                    <h2 class="mb-2">Compétences cochées</h2>
-                    <ul>
-                        <li>Gérer le patrimoine informatique</li>
-                        <li>Répondre aux incidents et aux demandes d’assistance et d’évolution</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
     </div>
 @endsection

@@ -10,14 +10,14 @@
             <div class="menu-bar">
                 <ul class="d-flex align-items-center justify-content-between">
                     <li><a href="{{route('home')}}">Home</a></li>
-                    <li><a href="#">Présentaion</a>
+                    <li><a href="{{route('entreprises')}}">Présentaion des sociétées</a>
                         <ul class="dropdown">
-                            <li><a href="#">CEMA TECHNOLOGIES</a></li>
-                            <li><a href="#">Group LDC</a></li>
-                            <li><a href="#">LDC SERVICE</a></li>
+                            <li><a href="{{route('cemaTechnologies')}}">CEMA TECHNOLOGIES</a></li>
+                            <li><a href="{{route('groupLdc')}}">Group LDC</a></li>
+                            <li><a href="{{route('ldcServices')}}">LDC SERVICE</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Projet</a>
+                    <li><a href="{{route('projets')}}">Projet</a>
                         <ul class="dropdown">
                             <li><a href="{{route('projet1')}}">Projet 1</a></li>
                             <li><a href="{{route('projet2')}}">Projet 2</a></li>
@@ -25,7 +25,6 @@
                             <li><a href="{{route('projet4')}}">Projet 4</a></li>
                             <li><a href="{{route('projet5')}}">Projet 5</a></li>
                             <li><a href="{{route('projet6')}}">Projet 6</a></li>
-                            <li><a href="{{route('projet7')}}">Projet 7</a></li>
                         </ul>
                     </li>
                 </ul>

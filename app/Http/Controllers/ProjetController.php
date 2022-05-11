@@ -13,75 +13,12 @@ class ProjetController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+
     public function index()
     {
         $projets = projet::all();
-        return view('home.home',['projets'=>$projets]);
+        return view('projets.projets',['projets'=>$projets]);
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \App\Http\Requests\StoreprojetRequest  $request
-     * @return \Illuminate\Http\Response
-     */
-    public function store(StoreprojetRequest $request)
-    {
-        //
-    }
-
-    /**
-     * Display the specified resource.
-     *
-     * @param  \App\Models\projet  $projet
-     * @return \Illuminate\Http\Response
-     */
-    public function show(projet $projet)
-    {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\projet  $projet
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(projet $projet)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \App\Http\Requests\UpdateprojetRequest  $request
-     * @param  \App\Models\projet  $projet
-     * @return \Illuminate\Http\Response
-     */
-    public function update(UpdateprojetRequest $request, projet $projet)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\projet  $projet
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(projet $projet)
-    {
-        //
-    }
 }
