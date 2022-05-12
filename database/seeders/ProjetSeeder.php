@@ -39,7 +39,7 @@ class ProjetSeeder extends Seeder
             [
                 'titre' => 'Calculer la somme des commandes par affaire',
                 'description' => 'J’ai été chargé du suivie du bon fonctionnement d’un "CRM". J’avais la charge de faire évoluer celui-ci.',
-                'url_img' => '/assets/img/projets/maintenance.jpg',
+                'url_img' => '/assets/img/projets/code.jpg',
                 'alt_img' => 'maintenance',
                 'date_projet' => Carbon::parse('2021-06-05'),
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
@@ -60,6 +60,15 @@ class ProjetSeeder extends Seeder
                 'url_img' => '/assets/img/projets/code.jpg',
                 'alt_img' => 'code',
                 'date_projet' => Carbon::parse('2021-12-31'),
+                'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
+                'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
+            ],
+            [
+                'titre' => 'Fiche Client',
+                'description' => 'Un fois la demande d’évolution accepté et attribuée à un développeur, un mantis est créé. Ce mantis correspond à notre cahier des charges.',
+                'url_img' => '/assets/img/projets/code.jpg',
+                'alt_img' => 'code',
+                'date_projet' => Carbon::parse('2022-03-15'),
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
             ]

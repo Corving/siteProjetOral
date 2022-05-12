@@ -16,6 +16,8 @@ use \App\Http\Controllers\EntrepriseController;
 */
 
 Route::get('/',[HomeController::class,'index'])->name('home');
+Route::get('/remerciements',[HomeController::class,'remerciements'])->name('remerciements');
+
 Route::get('/projets',[ProjetController::class,'index'])->name('projets');
 Route::get('/entreprises',[EntrepriseController::class,'index'])->name('entreprises');
 

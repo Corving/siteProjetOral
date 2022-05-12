@@ -89,21 +89,13 @@
                             </div>
                         </div>
 
-                        <h2>Demande dévolution</h2>
-
-                        <p class="text-justify">
-                            Pour chaque demande d’évolution, LDC à mis en place un processus qui permet de recueillir
-                            toutes les demandes, Les chefs projets mettent un statut à toutes les demandes permettant de
-                            connaitre leur priorité. Ainsi, les demandes les plus urgentes seront traitées en premier.
-                        </p>
-                        <div class="col-lg-10 mt-5">
+                        <h2>Marques</h2>
+                        <div class="col-lg-8 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/schemaEvolution.PNG" alt="schema demande d'evolution">
+                                <img src="/assets/img/projets/marquesLdc.png" alt="marque posséder par ldc">
 
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>

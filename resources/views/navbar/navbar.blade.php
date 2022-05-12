@@ -27,6 +27,7 @@
                             <li><a href="{{route('projet6')}}">Projet 6</a></li>
                         </ul>
                     </li>
+                    <li><a href="{{route('remerciements')}}">Remerciements</a></li>
                 </ul>
             </div>
             <!-- sign-in area -->
