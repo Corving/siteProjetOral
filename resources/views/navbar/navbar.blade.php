@@ -9,7 +9,7 @@
             <!-- menu-bar -->
             <div class="menu-bar">
                 <ul class="d-flex align-items-center justify-content-between">
-                    <li><a href="{{route('home')}}">Home</a></li>
+                    <li><a href="{{route('home')}}">Accueil</a></li>
                     <li><a href="{{route('entreprises')}}">Présentaion des sociétées</a>
                         <ul class="dropdown">
                             <li><a href="{{route('cemaTechnologies')}}">CEMA TECHNOLOGIES</a></li>

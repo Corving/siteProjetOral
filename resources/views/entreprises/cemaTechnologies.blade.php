@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-lg-10 m-auto">
                     <div class="post-thumb">
-                        <img src="/assets/img/projets/entreprises.jpg" alt="">
+                        <img src="/assets/img/projets/entreprises1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -71,7 +71,16 @@
 
                         <h2>Organigramme</h2>
 
-                        <div class="col-lg-7 mt-15">
+                        <div class="col-lg-10 mt-15">
+                            <div class="single-post-thumb">
+                                <p class="mb-15">Organigramme du Groupe CEMA TECHNOLOGIES :</p>
+                                <img src="/assets/img/projets/orga.png" alt="organigramme group cema">
+
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-5 mt-15">
                             <div class="single-post-thumb">
                                 <img src="/assets/img/projets/orgaCEMA.png" alt="organigramme Service Informatique">
 

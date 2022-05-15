@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/assets/css/base-style.css">
     <link rel="stylesheet" href="/assets/css/style.css">
     <script src="/assets/js/dark-light.js"></script>
+    <link rel="stylesheet" href="/assets/css/monStyle.css">
 
 </head>
 <body class="placeholder">

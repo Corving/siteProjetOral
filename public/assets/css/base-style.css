@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
-p {
+p{
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -7804,11 +7804,11 @@ svg {
   transform: translateX(0);
   opacity: 1; }
 
-/*! 
-* @package IcoFont 
-* @version 1.0.1 
-* @author IcoFont https://icofont.com 
-* @copyright Copyright (c) 2015 - 2018 IcoFont 
+/*!
+* @package IcoFont
+* @version 1.0.1
+* @author IcoFont https://icofont.com
+* @copyright Copyright (c) 2015 - 2018 IcoFont
 * @license - https://icofont.com/license/
 */
 @font-face {
@@ -14312,15 +14312,15 @@ svg {
 /**
  * Swiper 3.3.1
  * Most modern mobile touch slider and framework with hardware accelerated transitions
- * 
+ *
  * http://www.idangero.us/swiper/
- * 
+ *
  * Copyright 2016, Vladimir Kharlampidi
  * The iDangero.us
  * http://www.idangero.us/
- * 
+ *
  * Licensed under MIT
- * 
+ *
  * Released on: February 7, 2016
  */
 .swiper-container {
@@ -25271,3 +25271,4 @@ input[data-color="black"] {
 
 .radious-6 {
   border-radius: 6px; }
+

@@ -21,7 +21,7 @@ Author:     Electronthemes
     4.7=> Sponsor Ship
     4.8=> Subscribe From
     4.9=> Swiper Slider
-    4.10=> Trafic From 
+    4.10=> Trafic From
 5. Pages
     5.1=> HomePage
     5.2=> Single Blog
@@ -285,7 +285,7 @@ Author:     Electronthemes
               height: 2px;
               background-color: var(--color-yellow-deep);
               transform: translateY(-50%); }
-          .data-list-wrapper .data-list li a .search-content p {
+          .data-list-wrapper .data-list li a .search-content ul p {
             font-size: 16px;
             color: var(--color-text); }
         .data-list-wrapper .data-list li a svg,

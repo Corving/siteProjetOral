@@ -61,14 +61,6 @@
 
                         <h2>Localisation</h2>
                         <p class="mb-5">LDC se situe à SABLE-SUR-SARTHE (72300)</p>
-
-                        <h2>Applications</h2>
-                        <p class="text-justify">Le logiciel principal de LDC Service est « ARCADIA ». Cette application
-                            regroupe tous les
-                            métiers que nous pouvons retrouver chez LDC. Ces applications permettent de faire
-                            fonctionner LDC.</p>
-
-
                         <div class="col-lg-10 mt-15">
                             <div class="single-post-thumb">
                                 <iframe
@@ -77,7 +69,6 @@
                                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
-
 
                         <h2>Chiffres clés</h2>
 
@@ -93,7 +84,6 @@
                         <div class="col-lg-8 mt-5">
                             <div class="single-post-thumb">
                                 <img src="/assets/img/projets/marquesLdc.png" alt="marque posséder par ldc">
-
                             </div>
                         </div>
                     </div>
