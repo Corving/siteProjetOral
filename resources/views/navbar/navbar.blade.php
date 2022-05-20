@@ -4,7 +4,7 @@
         <div class="header-wrapper d-flex align-items-center justify-content-between">
             <!--header-logo-->
             <div class="header-logo">
-                <a href="{{route('home')}}">Oral</a>
+                <a href="{{route('home')}}">Oral E4</a>
             </div>
             <!-- menu-bar -->
             <div class="menu-bar">
