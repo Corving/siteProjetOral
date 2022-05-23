@@ -21,7 +21,6 @@
         </div>
     </section>
 
-
     <!--single-blog content area start from here-->
     <div class="single-blog-full-content">
         <div class="container">
@@ -55,7 +54,7 @@
                         <ul>
                             <li>Changer les piles d'une souris</li>
                             <li>Installer une imprimante</li>
-                            <li>Mettre en raccourcit les lecteurs réseaux</li>
+                            <li>Mettre en raccourci les lecteurs réseaux</li>
                             <li>Paramétrer le VPN sur le poste de l'utilisateur (pour le télétravail)</li>
                         </ul>
                         </p>
