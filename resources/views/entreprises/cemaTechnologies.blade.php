@@ -42,21 +42,13 @@
 
                         <ul>
                             CEMA TECHNOLOGIES a développé plusieurs secteurs de compétences :
-                            <li>Recherche et Développement
-                            </li>
-                            <li>Pôle volaille : Commercialisation des volailles à travers une offre variée en termes
-                                d’origine géographique, de cahier des charges (label, certifiés, bio...), et de
-                                présentation (carcasses entières, découpées, produits élaborés...).
-                            </li>
-                            <li>Pôle traiteur : Fabrication et commercialisation de plats cuisinés et produits
-                                exotiques.
-                            </li>
-                            <li>Pôle International : Exportation des produits du groupe et sites de production en
-                                Pologne, Hongrie et Pays de Galles
-                            </li>
-
+                            <li>Recherche et Développement</li>
+                            <li>Étude</li>
+                            <li>Réalisation</li>
+                            <li>Protocole de Validation</li>
+                            <li>Métrologie</li>
+                            <li>Gestion de Projet</li>
                         </ul>
-
                         </p>
 
                         <h2>Localisation</h2>
@@ -82,6 +74,7 @@
 
                         <div class="col-lg-5 mt-15">
                             <div class="single-post-thumb">
+                                <p class="mb-15">Organigramme du service informatique :</p>
                                 <img src="/assets/img/projets/orgaCEMA.png" alt="organigramme Service Informatique">
 
                             </div>

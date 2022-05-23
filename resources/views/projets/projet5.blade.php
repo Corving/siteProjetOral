@@ -46,13 +46,13 @@
                             créé un programme sur excel via des macros.
                             <br>
                             <br>
-                            Christophe DUBREIL, ma demandé de refaire son programme afin qu'il soit plus simple
+                            Christophe DUBREIL, m'a demandé de refaire son programme afin qu'il soit plus simple
                             d'utilisation, plus rapide et aussi qu'il ait une vérification.
                         </p>
 
                         <div class="col-lg-7 mt-10">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/tableauProjet4.png" alt="interface glpi">
+                                <img src="/assets/img/projets/tableauProjet5.png" alt="tableau demande">
                             </div>
                         </div>
 

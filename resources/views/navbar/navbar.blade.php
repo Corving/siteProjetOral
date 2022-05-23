@@ -19,12 +19,12 @@
                     </li>
                     <li><a href="#">Projets</a>
                         <ul class="dropdown">
-                            <li><a href="{{route('projet1')}}">Projet 1</a></li>
-                            <li><a href="{{route('projet2')}}">Projet 2</a></li>
-                            <li><a href="{{route('projet3')}}">Projet 3</a></li>
-                            <li><a href="{{route('projet4')}}">Projet 4</a></li>
-                            <li><a href="{{route('projet5')}}">Projet 5</a></li>
-                            <li><a href="{{route('projet6')}}">Projet 6</a></li>
+                            <li><a href="{{route('projet1')}}">Projet 1 : Maintenance du parc informatique</a></li>
+                            <li><a href="{{route('projet2')}}">Projet 2 : Intégration des nouveaux postes</a></li>
+                            <li><a href="{{route('projet3')}}">Projet 3 : Calculer la somme des commandes par affaire</a></li>
+                            <li><a href="{{route('projet4')}}">Projet 4 : Transformation de données pour un robot</a></li>
+                            <li><a href="{{route('projet5')}}">Projet 5 : Facturation</a></li>
+                            <li><a href="{{route('projet6')}}">Projet 6 : Fiche Client</a></li>
                         </ul>
                     </li>
                     <li><a href="{{route('remerciements')}}">Remerciements</a></li>
@@ -34,15 +34,15 @@
             <!-- sign-in area -->
             <div class="sign-in-area">
                 <ul class="d-flex align-items-center justify-content-between">
-                    <li class="dark-light"><img src="assets/img/svg/dark-light.svg" alt=""></li>
+                    <li class="dark-light"><img src="/assets/img/svg/dark-light.svg" alt=""></li>
                     <li>
                         <!--mobile menu icon-->
                         <div class="menu-toggole">
                             <span class="menu-show comon-tab">
-                                <img src="assets/img/svg/toggle.svg" alt="">
+                                <img src="/assets/img/svg/toggle.svg" alt="">
                             </span>
                             <span class="menu-close comon-tab">
-                                <img src="assets/img/svg/close.svg" alt="">
+                                <img src="/assets/img/svg/close.svg" alt="">
                             </span>
                         </div>
                     </li>

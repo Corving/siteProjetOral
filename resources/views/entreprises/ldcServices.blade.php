@@ -54,14 +54,14 @@
                         <p class="text-justify">Organigramme du service informatique :</p>
                         <div class="col-lg-10 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/orgaldc.PNG" alt="organigramme LDC">
+                                <img src="/assets/img/projets/orgaldc.png" alt="organigramme LDC">
                                 <p class="text-justify">Mon responsable de service, Julien GRELIER, est aussi mon tuteur</p>
                             </div>
                         </div>
                         <p>Organigramme du service informatique :</p>
                         <div class="col-lg-10 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/orgaServicesLDC.PNG" alt="organigramme LDC">
+                                <img src="/assets/img/projets/orgaServicesLDC.png" alt="organigramme LDC">
                             </div>
                         </div>
 
@@ -74,7 +74,7 @@
                             fonctionner LDC.</p>
                         <div class="col-lg-10 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/appli.PNG" alt="organigramme LDC">
+                                <img src="/assets/img/projets/appli.png" alt="organigramme LDC">
                                 <p>Sur le schéma ci-dessus, les applications gérées en interne sont en bleu claire</p>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                         <p>Voilà un schéma récapitulant l’organisation des logiciels au sein de l’entreprise :</p>
                         <div class="col-lg-6 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/srcShémaAppli.PNG" alt="organigramme LDC">
+                                <img src="/assets/img/projets/srcShemaAppli.png" alt="organigramme LDC">
                                 <p>Sur le schéma ci-dessus, les applications gérées en interne sont en bleu claire</p>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                             l’entreprise LDC Service pour mettre à jour ces logiciels internes</p>
                         <div class="col-lg-9 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/dev.PNG" alt="organigramme LDC">
+                                <img src="/assets/img/projets/dev.png" alt="organigramme LDC">
                             </div>
                         </div>
 
@@ -109,7 +109,7 @@
                         </p>
                         <div class="col-lg-10 mt-5">
                             <div class="single-post-thumb">
-                                <img src="/assets/img/projets/schemaEvolution.PNG" alt="schema demande d'evolution">
+                                <img src="/assets/img/projets/schemaEvolution.png" alt="schema demande d'evolution">
                                 <p class="text-center">Voici un schéma qui représente tout le process d’une demande d’évolution.</p>
                             </div>
                         </div>

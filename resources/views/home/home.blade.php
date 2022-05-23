@@ -1,6 +1,6 @@
 @extends('base')
 
-@section('title','Home')
+@section('title','Accueil')
 
 @section('content')
     <!-- banner area start from here -->
